@@ -1,0 +1,13 @@
+pyttsx3
+pyowm
+tkinter
+ctypes
+pustil
+pycaw
+os
+wmi
+sys
+date
+time
+pil
+
